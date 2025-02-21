@@ -1,5 +1,7 @@
 # 오늘의 명언 앱 (Flutter)
 
+**Notion 바로가기 > https://www.notion.so/App-19e801bc51528075bc7fc802a8ac09e1**
+
 ## 개요
 Flutter를 사용하여 "오늘의 명언"을 제공하는 간단한 모바일 애플리케이션입니다.
 명언 API를 호출하여 새로운 명언을 가져오고, 이를 UI에 표시합니다.
